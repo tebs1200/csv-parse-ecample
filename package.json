@@ -1,0 +1,11 @@
+{
+  "name": "csv-parse-example",
+  "version": "0.0.1",
+  "description": "Example of an issue encountered using csv-parse module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaren Tebbutt",
+  "license": "MIT"
+}
